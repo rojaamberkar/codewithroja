@@ -253,6 +253,7 @@ img.portfolio {
     div.frame img {
         width:70px;
     }
+       
     /*PORTFOLIO_MOBILE*/
     .portfolio-header-title {
         font-size: 20px;
@@ -280,5 +281,8 @@ img.portfolio {
     .display-mobile {
         display:block ;
     }
+       iframe{
+              height:300px;
+       }
 }
 
